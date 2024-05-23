@@ -1,11 +1,5 @@
 ## Cloud Capacity Management ☁️ 💰
 
-![GitHub all releases](https://img.shields.io/github/downloads/CR-Digital-Innovation/cloud-capacity-management/total)
-![GitHub language count](https://img.shields.io/github/languages/count/CR-Digital-Innovation/cloud-capacity-management)
-![GitHub top language](https://img.shields.io/github/languages/top/CR-Digital-Innovation/cloud-capacity-management?color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/CR-Digital-Innovation/cloud-capacity-management?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/CR-Digital-Innovation/cloud-capacity-management?style=social)
-
 ## Inspiration for the Product:
 
 Nowadays, organizations are depending upon the cloud computing technology offered by various cloud providers in the market. The Organization’s operations and usage entirely depend on the services provided by the various cloud providers and vendors. As the usage of services increases the cloud costs will also increase. In a study, it has been revealed that about 60% of the organizations who actively maintain their workloads in cloud are looking to reduce their cloud expenditure to furthermore while keeping low business impact. We noticed that many organizations are investing on idle resources in non-production environments and during non-business window. We see the opportunity to reduce these costs without impacting the business and further cut-down the cloud costs.
@@ -58,4 +52,3 @@ Cron Job, IaaC Templates, Groovy script, Jenkins, Terraform, and Velero.
 
 Try this solution by using the provided installation and setup guide.
 
-Installation guide - [Installation Guide.docx](https://github.com/CR-Digital-Innovation/cloud-capacity-management/tree/main/docs)
