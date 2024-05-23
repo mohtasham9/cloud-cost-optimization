@@ -48,7 +48,3 @@ The future versions will include configurations and relevant templates for other
 
 Cron Job, IaaC Templates, Groovy script, Jenkins, Terraform, and Velero.
 
-**Try it out:**
-
-Try this solution by using the provided installation and setup guide.
-
