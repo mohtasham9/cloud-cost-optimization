@@ -1,4 +1,4 @@
-## Cloud Capacity Management ☁️ 💰
+## Cloud Cost Management ☁️ 💰
 
 ## Inspiration for the Product:
 
